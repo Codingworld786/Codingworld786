@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://codersera.com/blog/wp-content/uploads/2019/11/main-page.jpg">
 
 
-- 🌱 I’m currently learning **Geinformatics,Remote Sensing, Machine Learning, Deep Learning, NLP, SQL, Python**
+- 🌱 I’m currently pursuing my M.Tech. from **IIT Bombay** and Exploring **Geinformatics,Remote Sensing, Machine Learning, GPS, Deep Learning, NLP, SQL, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
