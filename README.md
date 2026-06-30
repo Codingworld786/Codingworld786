@@ -127,11 +127,11 @@ Building production-ready AI systems powered by Machine Learning, LLMs, RAG, and
 
 ---
 
-## 🔥 GitHub Streak
+--## 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://streak-stats.demolab.com?user=Codingworld786&theme=tokyonight"/>
-</p>
+</p> -->
 
 ---
 
